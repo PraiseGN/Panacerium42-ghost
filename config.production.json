@@ -5,9 +5,9 @@
     "host": "0.0.0.0"
   },
   "database": {
-    "client": "mysql",
+    "client": "postgres",
     "connection": {
-      "host": "mysql-db",
+      "host": "postgres-db",
       "port": 3306,
       "user": "admin",
       "password": "DATABASE_PASSWORD",
